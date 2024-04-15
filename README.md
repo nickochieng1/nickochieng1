@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/nickodesigner" target="blank"><img src="https://img.shields.io/twitter/follow/nickodesigner?logo=twitter&style=for-the-badge" alt="nickodesigner" /></a> </p>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python, Javascript & React**
 
 - 📫 How to reach me **1nickochieng@gmail.com**
 
-- ⚡ Fun fact **I think I CODE!**
+- ⚡ Fun fact **I am a PROBLEM SOLVER!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
