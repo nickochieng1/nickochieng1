@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **1nickochieng@gmail.com**
 
-- ⚡ Fun fact **I am a PROBLEM SOLVER!**
+- ⚡ Fun fact **I solve code problems!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
