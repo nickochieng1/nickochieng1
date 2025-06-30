@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick Odeny</h1>
+<h1 align="center">Hi 👋, I'm Nicholas Ochieng</h1>
 <h3 align="center">A passionate developer from Nairobi, Kenya</h3>
 
 - 💬 Ask me about **Python**
