@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolás Odeny</h1>
+<h1 align="center">Hi 👋, I'm Nicholás Odeny</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 💬 Ask me about **Python**
