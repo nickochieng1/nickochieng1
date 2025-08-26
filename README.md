@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Odeny</h1>
-<h3 align="center">A passionate developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 💬 Ask me about **Python**
 
